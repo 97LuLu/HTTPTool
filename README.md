@@ -1,0 +1,2 @@
+# HTTPTool
+encapsulation AFNetworking
